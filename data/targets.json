@@ -1,0 +1,132 @@
+[
+  {
+    "id": "T001",
+    "name": "校内学生事务相关部门",
+    "type": "校内反映",
+    "recipientLabel": "相关学生事务负责部门",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "situation-report",
+    "description": "适合首次说明情况、提出沟通和程序性请求。"
+  },
+  {
+    "id": "T002",
+    "name": "后勤保障相关部门",
+    "type": "校内反映",
+    "recipientLabel": "后勤保障相关部门",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合反映宿舍调整、搬迁安排、住宿服务衔接等问题。"
+  },
+  {
+    "id": "T003",
+    "name": "宿舍管理服务相关部门",
+    "type": "校内反映",
+    "recipientLabel": "宿舍管理服务相关部门",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合反映宿舍调整执行细节、搬迁期限、住宿安排和特殊困难处理。"
+  },
+  {
+    "id": "T004",
+    "name": "所在院系学生工作渠道",
+    "type": "校内反映",
+    "recipientLabel": "所在院系学生工作相关负责人",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "situation-report",
+    "description": "适合说明个人影响、请求院系协助沟通或转达诉求。"
+  },
+  {
+    "id": "T005",
+    "name": "本科生或研究生培养管理渠道",
+    "type": "校内反映",
+    "recipientLabel": "培养管理相关部门",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "situation-report",
+    "description": "适合说明宿舍调整对课程、考试、科研、实习或培养安排的影响。"
+  },
+  {
+    "id": "T006",
+    "name": "校园综合服务平台或服务热线",
+    "type": "校内反映",
+    "recipientLabel": "校园综合服务平台",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "situation-report",
+    "description": "适合提交简明、可转办、可追踪的情况反映。"
+  },
+  {
+    "id": "T007",
+    "name": "校长信箱、书记信箱等公开反馈渠道",
+    "type": "校内公开渠道",
+    "recipientLabel": "学校公开反馈渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合在事实清楚、材料已脱敏后提交正式反映。"
+  },
+  {
+    "id": "T008",
+    "name": "信息公开工作机构",
+    "type": "信息公开",
+    "recipientLabel": "信息公开工作机构",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "disclosure-request",
+    "description": "适合请求说明制度依据、决策程序、适用范围、执行标准和复核渠道。"
+  },
+  {
+    "id": "T009",
+    "name": "校内纪检监察公开渠道",
+    "type": "校内监督",
+    "recipientLabel": "纪检监察公开渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "仅适合在材料充分、诉求克制、问题属于监督范围时使用。"
+  },
+  {
+    "id": "T010",
+    "name": "校内信访或接诉即办类公开渠道",
+    "type": "校内公开渠道",
+    "recipientLabel": "校内信访或接诉即办公开渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合提交正式、完整、便于登记和反馈的材料。"
+  },
+  {
+    "id": "T011",
+    "name": "学生代表组织或权益反馈渠道",
+    "type": "学生反馈",
+    "recipientLabel": "学生代表组织或权益反馈渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "situation-report",
+    "description": "适合收集共性问题和程序性建议，不宜提交未脱敏个人材料。"
+  },
+  {
+    "id": "T012",
+    "name": "上级教育主管部门公开咨询或信访渠道",
+    "type": "外部反映",
+    "recipientLabel": "相关教育主管部门公开渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合在校内沟通无果、材料较充分且渠道公开可核验时使用。"
+  },
+  {
+    "id": "T013",
+    "name": "属地政务服务便民热线或网上信访公开渠道",
+    "type": "外部公开渠道",
+    "recipientLabel": "属地政务服务或信访公开渠道",
+    "email": "",
+    "website": "",
+    "recommendedTemplate": "report-letter",
+    "description": "适合按照公开渠道规则提交，避免重复刷屏或批量骚扰。"
+  }
+]

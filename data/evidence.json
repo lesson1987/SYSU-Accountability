@@ -1,0 +1,22 @@
+[
+  {
+    "id": "E001",
+    "title": "宿舍调整通知截图",
+    "type": "notice",
+    "path": "/materials/notices/dorm-notice-001-redacted.png",
+    "date": "2026-05-XX",
+    "source": "学生收到的通知截图",
+    "redacted": true,
+    "description": "截图显示相关宿舍调整安排和时间要求。"
+  },
+  {
+    "id": "E002",
+    "title": "公共区域照片示例",
+    "type": "photo",
+    "path": "/materials/photos/example-redacted.jpg",
+    "date": "2026-05-XX",
+    "source": "公共区域拍摄",
+    "redacted": true,
+    "description": "照片应当模糊人脸、车牌和其他可识别个人信息。"
+  }
+]

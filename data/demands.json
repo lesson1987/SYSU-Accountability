@@ -1,0 +1,26 @@
+[
+  {
+    "id": "D001",
+    "caseId": "dorm-relocation",
+    "text": "请说明本次宿舍调整的制度依据、决策程序、适用范围和执行标准。",
+    "riskLevel": "low"
+  },
+  {
+    "id": "D002",
+    "caseId": "dorm-relocation",
+    "text": "请设置特殊困难学生的申请、复核和暂缓机制。",
+    "riskLevel": "low"
+  },
+  {
+    "id": "D003",
+    "caseId": "dorm-relocation",
+    "text": "请给予合理搬迁过渡期，避免对科研、考试、实习和正常生活造成不必要影响。",
+    "riskLevel": "low"
+  },
+  {
+    "id": "D004",
+    "caseId": "dorm-relocation",
+    "text": "请建立公开、稳定、可追踪的反馈渠道，并对学生诉求作出适当回应。",
+    "riskLevel": "low"
+  }
+]

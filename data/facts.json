@@ -1,0 +1,35 @@
+[
+  {
+    "id": "F001",
+    "caseId": "dorm-relocation",
+    "title": "宿舍调整通知",
+    "date": "2026-05-XX",
+    "content": "部分学生收到宿舍调整相关通知，要求在指定期限内完成搬迁。",
+    "safeWording": "部分学生收到宿舍调整相关通知，要求在指定期限内完成搬迁。",
+    "status": "pending-verification",
+    "evidenceIds": ["E001"],
+    "riskLevel": "low"
+  },
+  {
+    "id": "F002",
+    "caseId": "dorm-relocation",
+    "title": "搬迁期限较短",
+    "date": "2026-05-XX",
+    "content": "部分学生反映，搬迁期限较短，可能影响科研、考试、实习或日常生活安排。",
+    "safeWording": "部分学生反映，搬迁期限较短，可能影响科研、考试、实习或日常生活安排。",
+    "status": "collecting",
+    "evidenceIds": [],
+    "riskLevel": "low"
+  },
+  {
+    "id": "F003",
+    "caseId": "dorm-relocation",
+    "title": "程序说明不足",
+    "date": "2026-05-XX",
+    "content": "部分学生希望进一步了解本次安排的制度依据、决策程序、适用范围和复核渠道。",
+    "safeWording": "部分学生希望进一步了解本次安排的制度依据、决策程序、适用范围和复核渠道。",
+    "status": "collecting",
+    "evidenceIds": [],
+    "riskLevel": "low"
+  }
+]
